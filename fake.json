@@ -1,0 +1,277 @@
+{
+  "items": [
+    {
+      "passwordHistory": null,
+      "revisionDate": "2024-08-04T19:54:50.115929+00:00Z",
+      "creationDate": "2024-08-04T19:54:50.115937+00:00Z",
+      "deletedDate": null,
+      "id": "01b9e0cc-075d-4371-87aa-53ceccc6b5cc",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 1,
+      "name": "1 https://blog.test.com",
+      "notes": null,
+      "favorite": true,
+      "login": {
+        "fido2Credentials": [],
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://blog.test.com"
+          },
+          {
+            "match": null,
+            "uri": "https://test.com/login"
+          }
+        ],
+        "username": "someusername",
+        "password": "someexamplepassword",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2024-08-04T19:54:50.115963+00:00Z",
+      "creationDate": "2024-08-04T19:54:50.115965+00:00Z",
+      "deletedDate": null,
+      "id": "79967739-dd29-4801-a39a-f0b813a1408a",
+      "organizationId": null,
+      "folderId": null,
+      "type": 2,
+      "reprompt": 0,
+      "name": "2 https://www.sample.org",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "fido2Credentials": [],
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.sample.org"
+          }
+        ],
+        "username": "someusername",
+        "password": "someexamplepassword",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2024-08-04T19:54:50.115984+00:00Z",
+      "creationDate": "2024-08-04T19:54:50.115986+00:00Z",
+      "deletedDate": null,
+      "id": "3481ab1c-3541-409e-b8db-c15433af66d2",
+      "organizationId": null,
+      "folderId": null,
+      "type": 2,
+      "reprompt": 1,
+      "name": "3 https://www.sample.org",
+      "notes": null,
+      "favorite": true,
+      "login": {
+        "fido2Credentials": [],
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.sample.org"
+          }
+        ],
+        "username": "someusername",
+        "password": "someexamplepassword",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2024-08-04T19:54:50.115998+00:00Z",
+      "creationDate": "2024-08-04T19:54:50.116000+00:00Z",
+      "deletedDate": null,
+      "id": "ce2d44d5-bfbc-4812-bf2c-e278541c1217",
+      "organizationId": null,
+      "folderId": null,
+      "type": 2,
+      "reprompt": 0,
+      "name": "4 https://blog.test.com",
+      "notes": null,
+      "favorite": true,
+      "login": {
+        "fido2Credentials": [],
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://blog.test.com"
+          },
+          {
+            "match": null,
+            "uri": "https://blog.test.be"
+          }
+        ],
+        "username": "someusername",
+        "password": "someexamplepassword",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2024-08-04T19:54:50.116011+00:00Z",
+      "creationDate": "2024-08-04T19:54:50.116013+00:00Z",
+      "deletedDate": null,
+      "id": "4b7b40b2-8bf7-48fd-adb1-e6f3a4251ed9",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 0,
+      "name": "5 https://www.test.com",
+      "notes": null,
+      "favorite": true,
+      "login": {
+        "fido2Credentials": [],
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://www.test.com"
+          }
+        ],
+        "username": "someusername",
+        "password": "someexamplepassword",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2024-08-04T19:54:50.116023+00:00Z",
+      "creationDate": "2024-08-04T19:54:50.116073+00:00Z",
+      "deletedDate": null,
+      "id": "7e3222fc-e993-4e1b-a827-66b7fff629de",
+      "organizationId": null,
+      "folderId": null,
+      "type": 2,
+      "reprompt": 1,
+      "name": "6 Duplicate uri",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "fido2Credentials": [],
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://blog.test.com"
+          }
+        ],
+        "username": "someusername",
+        "password": "someexamplepassword",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2024-08-04T19:54:50.116092+00:00Z",
+      "creationDate": "2024-08-04T19:54:50.116093+00:00Z",
+      "deletedDate": null,
+      "id": "c05e9a36-34a1-4f7f-9d6e-c7c7325c2e86",
+      "organizationId": null,
+      "folderId": null,
+      "type": 2,
+      "reprompt": 0,
+      "name": "7 No uris",
+      "notes": null,
+      "favorite": true,
+      "login": {
+        "fido2Credentials": [],
+        "uris": null,
+        "username": "someusernamem",
+        "password": "someexamplepassword",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2024-08-04T19:54:50.116104+00:00Z",
+      "creationDate": "2024-08-04T19:54:50.116106+00:00Z",
+      "deletedDate": null,
+      "id": "08b10fd2-2c55-4f4b-a9f6-c0a779661295",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 1,
+      "name": "8 No uri",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "fido2Credentials": [],
+        "uris": [
+          {
+            "match": null,
+            "uri": null
+          }
+        ],
+        "username": "someusername",
+        "password": "someexamplepassword",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2024-08-04T19:54:50.116116+00:00Z",
+      "creationDate": "2024-08-04T19:54:50.116117+00:00Z",
+      "deletedDate": null,
+      "id": "58bbbd28-c5e7-490f-b151-7ec40a0a7dbe",
+      "organizationId": null,
+      "folderId": null,
+      "type": 1,
+      "reprompt": 1,
+      "name": "9 No password",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "fido2Credentials": [],
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://blog.test.com"
+          }
+        ],
+        "username": "someusername",
+        "password": null,
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": null,
+      "revisionDate": "2024-08-04T19:54:50.116126+00:00Z",
+      "creationDate": "2024-08-04T19:54:50.116128+00:00Z",
+      "deletedDate": null,
+      "id": "1273403d-dd10-4859-a9f2-beb393575a25",
+      "organizationId": null,
+      "folderId": null,
+      "type": 2,
+      "reprompt": 1,
+      "name": "10 No username",
+      "notes": null,
+      "favorite": false,
+      "login": {
+        "fido2Credentials": [],
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://shop.example.com"
+          }
+        ],
+        "username": null,
+        "password": "someexamplepassword",
+        "totp": null
+      },
+      "collectionIds": null
+    }
+  ]
+}

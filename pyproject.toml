@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "bitwarden-vault-cleanup"
+version = "0.1.0"
+description = "Checking and cleaning a Bitwarden vault."
+authors = ["Flufsor <flufsor@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+rich = "^13.7.1"
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.ruff.lint]
+select = ["ALL"]
+
+[tool.ruff]
+ignore = ["S311"]
+line-length = 120
